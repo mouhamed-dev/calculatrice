@@ -92,6 +92,7 @@ button:active {
     .calculatrice-input {
         font-size: 2rem;
         margin-bottom: 25px;
+        background: none;
         justify-content: center !important;
     }
 }
